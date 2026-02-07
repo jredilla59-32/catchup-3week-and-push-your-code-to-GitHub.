@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digital ID Card</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      .id-card {
+        width: 300px;
+        border: 2px solid #ea0acc;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        background-color: rgb(27, 214, 146);
+        display: flex;
+        flex-direction: column;
+      }
+
+      header {
+        background-color: #4caf50;
+        color: rgb(0, 255, 234);
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+        padding: 20px 0;
+      }
+
+      main {
+        padding: 20px;
+        text-align: center;
+        font-size: 16px;
+        line-height: 1.6;
+      }
+
+      main p.id-number {
+        font-weight: bold;
+        margin-top: 10px;
+        color: #333;
+      }
+
+      footer {
+        background-color: #333;
+        color: rgb(78, 10, 225);
+        text-align: center;
+        padding: 15px 0;
+      }
+
+      footer a {
+        color: #c88b2f;
+        text-decoration: none;
+      }
+
+      footer a:hover {
+        text-decoration: underline;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="id-card">
+      <header>
+        JHOUAN LUCRIS B REDILLA 
+      </header>
+
+      <main>
+        <p><strong>Course:</strong> Bachelor of Science in Information Technology</p>
+        <p><strong>Dream Job:</strong> graphics designer </p>
+        <p class="id-number">ID Card: M25-01-0459</p>
+      </main>
+
+      <footer>
+        <p>
+          <a href="https://www.facebook.com/jumong.redilla" target="_blank">"https://www.facebook.com/jumong.redilla"</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
