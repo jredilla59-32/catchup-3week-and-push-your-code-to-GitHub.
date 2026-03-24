@@ -48,7 +48,7 @@
     <p>&copy; 2026 Redila Welding Shop</p>
     <!-- Inline CSS -->
     <button style="background-color: firebrick; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
-      Contact Us
+      Contact Us: 09560755776
     </button>
   </footer>
 </body>
