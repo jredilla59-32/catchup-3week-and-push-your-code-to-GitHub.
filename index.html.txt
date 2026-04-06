@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GEMINO BARBER SHOP</title>
+  <title>REDILLA WELDING SHOP</title>
 
   <!-- External CSS -->
   <link rel="stylesheet" href="styles.css">
@@ -27,23 +27,26 @@
 </head>
 <body>
   <header>
-    <!-- Barber Logo -->
-    <img src="welding-logo.png" alt="GEMINO BARBER SHOP Logo">
-    <h1>GEMINO BARBER SHOP</h1>
-    <p>QUALITY HAIRSTYLE, GOOD SERVICES</p>
+    <!-- WELDING Logo -->
+    <img src="welding-logo.png" alt="REDILLA WELDING SHOP Logo">
+    <h1>REDILLA WELDING SHOP</h1>
+    <p>QUALITY SERVICES, BOND QUALITY</p>
   </header>
 
   <main>
     <article>
       <h2>About Us</h2>
       <p>
-        GEMINO BARBER SHOP AIM THE GOOD QUALITY HAIRSTYLE AND AFFORDABLE
+         Redila Welding Shop specializes in high-quality welding services,
+        from structural steel fabrication to custom metalwork. Our mission
+        is to deliver durable craftsmanship that stands the test of time.
+
       </p>
     </article>
   </main>
 
   <footer>
-    <p>&copy; GEMINO BARBER SHOP</p>
+    <p>&copy; REDILLA WELDING SHOP</p>
     <!-- Inline CSS -->
     <button style="background-color: firebrick; color: white; padding: 10px 20px; border: none; border-radius: 5px;">
       Contact Us: 09560755776
